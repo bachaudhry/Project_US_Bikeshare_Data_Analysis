@@ -36,7 +36,7 @@
      j.  What is the earliest, latest and most common birth year?
 
 ## Link to the Dataset:
-[Dataset from Motivate] (https://s3.amazonaws.com/video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
+[Dataset from Motivate](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
 
 ## Resources Referred:
 
